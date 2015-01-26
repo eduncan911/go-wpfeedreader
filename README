@@ -1,0 +1,10 @@
+# go-wpfeedreader
+
+This is a simple tool to read a Wordpress RSS Feed and look for attachments within each entry.
+
+If the PDF attachment is found, it downloads it to the specified directory.
+
+On a personal note, I use this to download the minutes of board meetings for towns that post them online.  I run on my server once a week.
+
+Future ideas would be to have it email the attachment.  But for now, it downloads to a folder I sync on my devices so that's good enough for me.
+
